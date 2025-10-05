@@ -1,6 +1,6 @@
 // Kelas induk
 class Mahasiswa {
-  // Atribut
+
   String nama;
   String nim;
   String jurusan;
